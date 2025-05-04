@@ -1,3 +1,5 @@
+||youtube.com^$redirect=noopframe
+||googlevideo.com^$redirect=noopframe
 ||s.youtube.com^
 ||www.youtube.com^
 ||m.youtube.com^
