@@ -1,3 +1,13 @@
+||s.youtube.com^
+||www.youtube.com^
+||m.youtube.com^
+||music.youtube.com^
+||studio.youtube.com^
+||tv.youtube.com^
+||youtube-nolocalized.com^
+||yt3.ggpht.com^
+||ytstatic.l.google.com^
+||rr*.googlevideo.com^  # Bloquea todos los subdominios con "rr" (servidores de video)
 ||youtube^
 ||ggpht.cn^
 ||ggpht.com^
